@@ -325,6 +325,6 @@ ftp
 
 **Sohila Akram**
 
-Computer Science Graduate | IT Support & Networking Enthusiast
+Computer Science Graduate | IT Support & Networking
 
 
